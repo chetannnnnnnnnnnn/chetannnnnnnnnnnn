@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Chetan 👋</h1>
 <p align="center">🧠 16 y/o self-taught developer | Arch Linux user | C++ & Linux nerd</p>
 
 ---
@@ -27,18 +27,18 @@
 
 > 💡 These are small but mighty — scripts, tools, configs, and more.
 
-- 🔧 [**Arch Rice Setup**](https://github.com/yourusername/your-dotfiles): My Hyprland + Conky + custom scripts setup.
-- 🐚 [**Simple Shell in C++**](https://github.com/yourusername/simple-shell): A basic shell built with C++, handling commands, pipes, and more.
-- 📜 [**Learning Log**](https://github.com/yourusername/learning-log): Notes, code, and experiments from my programming journey.
+- 🔧 [**Arch Rice Setup**](https://github.com/chetannnnnnnnnnnn/dot-files): My Hyprland + Conky + custom scripts setup.
+- 🐚 [**Simple Shell in C++**](https://github.com/chetannnnnnnnnnnn/Shell-in-c): A basic shell built with C++, handling commands, pipes, and more.
+- 📜 [**Learning Log**](https://github.com/chetannnnnnnnnnnn/learning-log): Notes, code, and experiments from my programming journey.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?=chetannnnnnnnnnnn&show_icons=true&theme=radical" />
   <br>
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?chetannnnnnnnnnnn=chetannnnnnnnnnnn &theme=radical" />
 </p>
 
 ---
