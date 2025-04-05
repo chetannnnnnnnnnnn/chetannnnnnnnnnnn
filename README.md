@@ -36,11 +36,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?=chetannnnnnnnnnnn&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chetannnnnnnnnnnn&show_icons=true&theme=radical" />
   <br>
-  <img src="https://streak-stats.demolab.com/?chetannnnnnnnnnnn=chetannnnnnnnnnnn&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=chetannnnnnnnnnnn&theme=radical" />
 </p>
-
 ---
 
 ### 💬 Let's Connect
