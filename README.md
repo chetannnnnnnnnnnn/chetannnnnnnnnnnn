@@ -8,7 +8,7 @@
 - 🧑‍💻 Learning programming and building cool stuff.
 - 💻 Daily driving **Arch Linux** with **Hyprland**.
 - 🔧 I love tweaking systems, writing scripts, and exploring low-key dev tools.
-- 🌱 Currently diving deeper into **C++**, **Python**, and **Linux scripting**.
+- 🌱 Currently diving deeper into **C++**, **C**, and **Linux scripting**.
 - 🚀 Trying to turn my skills into freelance gigs and real-world projects.
 
 ---
