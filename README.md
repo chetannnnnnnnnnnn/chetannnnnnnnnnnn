@@ -44,8 +44,7 @@
 
 ### 💬 Let's Connect
 
-- 🐧 [My Linux Setup (YouTube/Twitter/etc. if any)](https://link)
-- 💼 Looking for small freelance gigs or collabs
+- 🐧 My Linux Setup <a href="https://www.reddit.com/r/unixporn/comments/1ja9fn5/hyprland_my_first_rice/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">Reddit</a>
 - 🧠 Always learning, always building
 
 ---
