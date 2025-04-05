@@ -48,6 +48,10 @@
 - 🧠 Always learning, always building
 
 ---
+ 🖼️ My Hyprland Setup
 
+<p align="center">
+  <img src="dot-files/config/conky/swappy-20250405_203958.png" alt="My Hyprland Setup" width="800"/>
+</p>
 <p align="center">Thanks for stopping by! 💻✨</p>
 
