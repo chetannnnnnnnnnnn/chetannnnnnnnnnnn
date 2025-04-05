@@ -27,7 +27,7 @@
 
 > 💡 These are small but mighty — scripts, tools, configs, and more.
 
-- 🔧 [**Arch Rice Setup**](https://github.com/chetannnnnnnnnnnn/dot-files): My Hyprland + Conky + custom scripts setup.
+- 🔧 [**Arch Rice Setup**](https://github.com/chetannnnnnnnnnnn/dot-files): My Hyprland + custom scripts setup.
 - 🐚 [**Simple Shell in C++**](https://github.com/chetannnnnnnnnnnn/Shell-in-c): A basic shell built with C++, handling commands, pipes, and more.
 - 📜 [**Learning Log**](https://github.com/chetannnnnnnnnnnn/learning-log): Notes, code, and experiments from my programming journey.
 
