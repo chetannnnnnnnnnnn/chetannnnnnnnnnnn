@@ -44,7 +44,6 @@
 
 ### 💬 Let's Connect
 
-- 🐧 My Linux Setup <a href="https://www.reddit.com/r/unixporn/comments/1ja9fn5/hyprland_my_first_rice/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">Reddit</a>
 - 🧠 Always learning, always building
 
 ---
@@ -53,5 +52,7 @@
 <p align="center">
   <img src="assests/swappy-20250405_203958.png" alt="My Hyprland Setup" width="800"/>
 </p>
+<p align ="center">
+  <img src =>
 <p align="center">Thanks for stopping by! 💻✨</p>
 
