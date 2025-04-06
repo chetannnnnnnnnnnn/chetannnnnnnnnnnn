@@ -53,6 +53,6 @@
   <img src="assests/swappy-20250405_203958.png" alt="My Hyprland Setup" width="800"/>
 </p>
 <p align ="center">
-  <img src =>
+  <img src ="assests/swappy-20250406_083828.png" width="800"/>
 <p align="center">Thanks for stopping by! 💻✨</p>
 
